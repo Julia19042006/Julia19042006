@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Julia19042006
+- 👀 I’m interested in progamming
+- 🌱 I’m currently learning progamming
+- 📫 How to reach me: instagram @juvbsk
