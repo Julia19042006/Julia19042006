@@ -1,4 +1,4 @@
-# sobre mim1
+# sobre mim!
 
 - 👋 Oi, eu sou a Julia
 - 👀 Etou interessada em progamação
