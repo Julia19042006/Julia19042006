@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Julia19042006
-- 👀 I’m interested in progamming
-- 🌱 I’m currently learning progamming
-- 📫 How to reach me: instagram @juvbsk
+# sobre mim1
+
+- 👋 Oi, eu sou a Julia
+- 👀 Etou interessada em progamação
+- 🌱 Atualmente estou aprendendo progamação
+- 📫 Meu email de contato é julia.visbiski@escola.pr.gov.br
